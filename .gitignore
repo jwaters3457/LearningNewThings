@@ -2,3 +2,8 @@
 *.framework
 #Compiled source
 *.xcodeproj
+
+#Visual Studio stuff
+*.sln
+*.suo
+*.pyproj
